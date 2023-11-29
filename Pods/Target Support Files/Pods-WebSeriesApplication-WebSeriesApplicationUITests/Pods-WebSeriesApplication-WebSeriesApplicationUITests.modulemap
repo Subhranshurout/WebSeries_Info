@@ -1,0 +1,6 @@
+framework module Pods_WebSeriesApplication_WebSeriesApplicationUITests {
+  umbrella header "Pods-WebSeriesApplication-WebSeriesApplicationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
